@@ -1,0 +1,59 @@
+{
+  "siteId": "chinese-breakfast-shop",
+  "generatedAt": "2026-06-02T15:27:39.613961",
+  "categories": [
+    "beginner-chinese-breakfast-shop",
+    "advanced-chinese-breakfast-shop",
+    "tips-chinese-breakfast-shop",
+    "history-chinese-breakfast-shop",
+    "trending-chinese-breakfast-shop",
+    "tutorials-chinese-breakfast-shop"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-chinese-breakfast-shop",
+      "category_name": "Beginner Chinese Breakfast Shop"
+    },
+    {
+      "category_slug": "advanced-chinese-breakfast-shop",
+      "category_name": "Advanced Chinese Breakfast Shop"
+    },
+    {
+      "category_slug": "tips-chinese-breakfast-shop",
+      "category_name": "Chinese Breakfast Shop Tips"
+    },
+    {
+      "category_slug": "history-chinese-breakfast-shop",
+      "category_name": "Chinese Breakfast Shop History"
+    },
+    {
+      "category_slug": "trending-chinese-breakfast-shop",
+      "category_name": "Trending Chinese Breakfast Shop"
+    },
+    {
+      "category_slug": "tutorials-chinese-breakfast-shop",
+      "category_name": "Chinese Breakfast Shop Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "chinese-breakfast-shop",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Chinese Breakfast Shop Central",
+    "articles_per_row": 4
+  }
+}

@@ -1,0 +1,88 @@
+# Validation Report - chinese-breakfast-shop
+
+Generated: 2026-06-02T15:27:39.613810
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Chinese Breakfast Shop
+- ✓ Article word count OK: Beginner Chinese Breakfast Shop: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Chinese Breakfast Shop
+- ✓ Article word count OK: Beginner Chinese Breakfast Shop Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Chinese Breakfast Shop
+- ✓ Article word count OK: Beginner Chinese Breakfast Shop in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Chinese Breakfast Shop
+- ✓ Article word count OK: Common Mistakes in Beginner Chinese Breakfast Shop
+- ✓ Article word count OK: Beginner Chinese Breakfast Shop for Beginners
+- ✓ Article word count OK: Advanced Beginner Chinese Breakfast Shop Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Chinese Breakfast Shop
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Chinese Breakfast Shop
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Chinese Breakfast Shop
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Chinese Breakfast Shop
+- ✓ Article word count OK: Common Mistakes in Advanced Chinese Breakfast Shop
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop for Beginners
+- ✓ Article word count OK: Advanced Advanced Chinese Breakfast Shop Techniques
+- ✓ Article word count OK: The Ultimate Guide to Chinese Breakfast Shop Tips
+- ✓ Article word count OK: Chinese Breakfast Shop Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Chinese Breakfast Shop Tips
+- ✓ Article word count OK: Chinese Breakfast Shop Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Chinese Breakfast Shop Tips
+- ✓ Article word count OK: Chinese Breakfast Shop Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Chinese Breakfast Shop Tips
+- ✓ Article word count OK: Common Mistakes in Chinese Breakfast Shop Tips
+- ✓ Article word count OK: Chinese Breakfast Shop Tips for Beginners
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Chinese Breakfast Shop History
+- ✓ Article word count OK: Chinese Breakfast Shop History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Chinese Breakfast Shop History
+- ✓ Article word count OK: Chinese Breakfast Shop History Tips and Best Practices
+- ✓ Article word count OK: The History of Chinese Breakfast Shop History
+- ✓ Article word count OK: Chinese Breakfast Shop History in 2026: Current Trends
+- ✓ Article word count OK: Future of Chinese Breakfast Shop History
+- ✓ Article word count OK: Common Mistakes in Chinese Breakfast Shop History
+- ✓ Article word count OK: Chinese Breakfast Shop History for Beginners
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Chinese Breakfast Shop
+- ✓ Article word count OK: Trending Chinese Breakfast Shop: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Chinese Breakfast Shop
+- ✓ Article word count OK: Trending Chinese Breakfast Shop Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Chinese Breakfast Shop
+- ✓ Article word count OK: Trending Chinese Breakfast Shop in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Chinese Breakfast Shop
+- ✓ Article word count OK: Common Mistakes in Trending Chinese Breakfast Shop
+- ✓ Article word count OK: Trending Chinese Breakfast Shop for Beginners
+- ✓ Article word count OK: Advanced Trending Chinese Breakfast Shop Techniques
+- ✓ Article word count OK: The Ultimate Guide to Chinese Breakfast Shop Tutorials
+- ✓ Article word count OK: Chinese Breakfast Shop Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Chinese Breakfast Shop Tutorials
+- ✓ Article word count OK: Chinese Breakfast Shop Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Chinese Breakfast Shop Tutorials
+- ✓ Article word count OK: Chinese Breakfast Shop Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Chinese Breakfast Shop Tutorials
+- ✓ Article word count OK: Common Mistakes in Chinese Breakfast Shop Tutorials
+- ✓ Article word count OK: Chinese Breakfast Shop Tutorials for Beginners
+- ✓ Article word count OK: Advanced Chinese Breakfast Shop Tutorials Techniques
+- ✓ Ad configuration validated
